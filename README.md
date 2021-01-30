@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋 I'm a embedded device developer.
+
+<img align="left" height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iysheng&layout=compact&theme=calm">
+
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=iysheng&count_private=true&show_icons=true&theme=calm">
 
 <!--
 **iysheng/iysheng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
