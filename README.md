@@ -1,4 +1,4 @@
-### Hi there 👋 I'm a embedded device developer.
+### Hi there 👋 I'm an embedded device developer.
 
 <img align="left" height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iysheng&layout=compact&theme=calm">
 
